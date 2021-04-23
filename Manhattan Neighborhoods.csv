@@ -1,97 +1,97 @@
-Neighborhood,Population,Crime Rate,Ambulance Stations,Adjacent neighborhoods,Distances (in miles),Conversion constant ,Distances (in kilometers),Driving Time (in minutes)
-Fort George,"74,003",639,0,"Fort George, Washington Heights",1.3,1.609,2.0917,4.287985
-Washington Heights,"158,318",389.5,1,"Washington Heights, Hamilton Heights",1.4,2.05,2.2526,4.61783
-Hamilton Heights,"48,520",389.5,0,"Hamilton Heights, Harlem",1.2,,1.9308,3.95814
-Harlem,"335,109",2745,1,"Harlem, Morningside Heights",1.1,,1.7699,3.628295
-Morningside Heights,"55,929",389.5,0,"Harlem, East Harlem",1.7,,2.7353,5.607365
-East Harlem,"95,589",1034,1,"Harlem, Central Park",1.1,,1.7699,3.628295
-Upper West Side,"209,084",1017,1,"Morningside Heights, Upper West Side",2.2,,3.5398,7.25659
-Lincoln Square,"61,489",900,0,"East Harlem, Central Park",0.8,,1.2872,2.63876
-Central Park,2200,69,0,"East Harlem, Upper East Side",2.2,,3.5398,7.25659
-Upper East Side,"229,688",757.66,1,"Upper West Side, Central Park",0.6,,0.9654,1.97907
-Lenox Hill,"88,306",757.66,1,"Upper West Side, Lincoln Square",1.4,,2.2526,4.61783
-Roosevelt Island,"11,661",1698,0,"Lincoln Square, Central Park",0.6,,0.9654,1.97907
-Clinton,"25,416",1211.5,1,"Lincoln Square, Clinton",1.4,,2.2526,4.61783
-Theater District,"6,170",1276,0,"Lincoln Square, Midtown",1.8,,2.8962,5.93721
-Midtown,"391,371",2487.5,1,"Central Park, Midtown",0.6,,0.9654,1.97907
-Turtle Bay,"14,827",223.2,0,"Central Park, Lenox Hill",1.1,,1.7699,3.628295
-Sutton,"8,963",223.2,0,"Central Park, Upper East Side",1.1,,1.7699,3.628295
-Beekman,"14,432",223.2,0,"Upper East Side, Yorkville",0.8,,1.2872,2.63876
-Tudor,"15,846",223.2,0,"Upper East Side, Lenox Hill",0.6,,0.9654,1.97907
-Medical City,7504,402.8,0,"Upper East Side, Roosevelt Island",4.4,,7.0796,14.51318
-Stuyvesant,"21,049",402.8,0,"Lenox Hill, Midtown",2,,3.218,6.5969
-Gramercy Park,27988,402.8,0,"Lenox Hill, Roosevelt Island",4.2,,6.7578,13.85349
-Kips Bay,"5,330",402.8,0,"Lenox Hill, Turtle Bay",0.9,,1.4481,2.968605
-Murray Hill,"25,990",223.2,1,"Lenox Hill, Sutton",1.2,,1.9308,3.95814
-Midtown South,"28,630",402.8,1,"Roosevelt Island, Beekman",3.5,,5.6315,11.544575
-Garment District,"19,453",384.33,0,"Clinton, Midtown",1.8,,2.8962,5.93721
-Chelsea,"38,242",384.33,0,"Clinton, Hell's Kitchen",2.2,,3.5398,7.25659
-Hell's Kitchen,"45,884",384.33,0,"Theater District, Midtown",0.9,,1.4481,2.968605
-Meat Packing Dist.,"1,428",306.8,0,"Theater District, Hell's Kitchen",1,,1.609,3.29845
-West Village,"30,344",306.8,1,"Theater District, Garment District",1.2,,1.9308,3.95814
-Greenwich Village,"22,785",306.8,0,"Midtown, Garment District",1.5,,2.4135,4.947675
-NoHo,"24,846",306.8,0,"Midtown, Turtle Bay",1.9,,3.0571,6.267055
-East Village,"62,832",617,1,"Midtown, Murray Hill",2.2,,3.5398,7.25659
-ABC City,"63,347",617,1,"Midtown, Midtown South",1.6,,2.5744,5.27752
-SoHo,"19,573",306.8,0,"Turtle Bay, Murray Hill",1.8,,2.8962,5.93721
-Little Italy,"1,211",195.2,0,"Turtle Bay, Sutton",0.9,,1.4481,2.968605
-Bowery,10058,195.2,0,"Turtle Bay, Beekman",2,,3.218,6.5969
-Lower East Side,"72,957",962,1,"Sutton, Beekman",0.8,,1.2872,2.63876
-Chinatown,"100,000",195.2,0,"Beekman, Murray Hill",0.85,,1.36765,2.8036825
-Civic Center,"5,974",195.2,0,"Beekman, Tudor",1.25,,2.01125,4.1230625
-Two Bridges,"28,915",195.2,1,"Tudor, Murray Hill",0.5,,0.8045,1.649225
-Wall Street,"25,547",346.5,1,"Tudor, Medical City",0.6,,0.9654,1.97907
-Southern Tip,1680,346.5,1,"Medical City, Kips Bay",2.1,,3.3789,6.926745
-White Hall,5078,346.5,0,"Medical City, Stuyvesant",2.2,,3.5398,7.25659
-Tribeca,"17,362",346.5,0,"Stuyvesant, Gramercy Park",1.6,,2.5744,5.27752
-,,,,"Stuyvesant, East Village",3.2,,5.1488,10.55504
-,,,,"Stuyvesant, ABC City",2.5,,4.0225,8.246125
-,,,,"Gramercy Park, Kips Bay",2,,3.218,6.5969
-,,,,"Gramercy Park, Midtown South",1.8,,2.8962,5.93721
-,,,,"Gramercy Park, East Village",1.5,,2.4135,4.947675
-,,,,"Kips Bay, Murray Hill",1.1,,1.7699,3.628295
-,,,,"Kips Bay, Midtown South",1.3,,2.0917,4.287985
-,,,,"Midtown South, Garment District",1.5,,2.4135,4.947675
-,,,,"Midtown South, Chelsea",1.6,,2.5744,5.27752
-,,,,"Midtown South, Greenwich Village",1.2,,1.9308,3.95814
-,,,,"Garment District, Hell's Kitchen",1.1,,1.7699,3.628295
-,,,,"Garment District, Chelsea",1.4,,2.2526,4.61783
-,,,,"Chelsea, Hell's Kitchen",1.9,,3.0571,6.267055
-,,,,"Chelsea, Meat Packing Dist.",2,,3.218,6.5969
-,,,,"Chelsea, West Village",2.03,,3.26627,6.6958535
-,,,,"Chelsea, Greenwich Village",2.1,,3.3789,6.926745
-,,,,"Meat Packing Dist., West Village",0.5,,0.8045,1.649225
-,,,,"West Village, Greenwich Village",1.2,,1.9308,3.95814
-,,,,"West Village, SoHo",0.9,,1.4481,2.968605
-,,,,"Greenwich Village, NoHo",1.5,,2.4135,4.947675
-,,,,"Greenwich Village, SoHo",1.1,,1.7699,3.628295
-,,,,"NoHo, SoHo",1.3,,2.0917,4.287985
-,,,,"NoHo, East Village",1.5,,2.4135,4.947675
-,,,,"NoHo, Little Italy",1.6,,2.5744,5.27752
-,,,,"East Village, Little Italy",1.2,,1.9308,3.95814
-,,,,"East Village, ABC City",1.1,,1.7699,3.628295
-,,,,"East Village, Bowery",1.4,,2.2526,4.61783
-,,,,"East Village, Lower East Side",1.9,,3.0571,6.267055
-,,,,"ABC City, Lower East Side",2,,3.218,6.5969
-,,,,"SoHo, Little Italy",1,,1.609,3.29845
-,,,,"SoHo, Tribeca",1.2,,1.9308,3.95814
-,,,,"SoHo, Chinatown",1.5,,2.4135,4.947675
-,,,,"Little Italy, Chinatown",1.9,,3.0571,6.267055
-,,,,"Little Italy, Bowery",2.15,,3.45935,7.0916675
-,,,,"Bowery, Lower East Side",1.4,,2.2526,4.61783
-,,,,"Bowery, Two Bridges",1.25,,2.01125,4.1230625
-,,,,"Lower East Side, Two Bridges",1.2,,1.9308,3.95814
-,,,,"Chinatown, Civic Center",0.9,,1.4481,2.968605
-,,,,"Chinatown, Two Bridges",0.35,,0.56315,1.1544575
-,,,,"Chinatown, Tribeca",0.82,,1.31938,2.704729
-,,,,"Civic Center, Tribeca",0.48,,0.77232,1.583256
-,,,,"Civic Center, White Hall",0.55,,0.88495,1.8141475
-,,,,"Civic Center, Wall Street",0.7,,1.1263,2.308915
-,,,,"Civic Center, Two Bridges",0.8,,1.2872,2.63876
-,,,,"Two Bridges, Wall Street",1.2,,1.9308,3.95814
-,,,,"Wall Street, Southern Tip",1,,1.609,3.29845
-,,,,"Wall Street, White Hall",1.3,,2.0917,4.287985
-,,,,"Southern Tip, White Hall",0.9,,1.4481,2.968605
-,,,,"White Hall, Tribeca",0.8,,1.2872,2.63876
-,,,,"Roosevelt Island, Yorkville",2.5,,4.0225,8.246125
-,,,,"Morningside Heights, Harlem",0.9,,1.4481,2.968605
+Neighborhood,Population,Crime Rate,Ambulance Stations,Degree of connections,Adjacent neighborhoods,Distances (in miles),Conversion constant ,Distances (in kilometers),Driving Time (in minutes)
+Fort George,"74,003",639,0,1,"Fort George, Washington Heights",1.3,1.609,2.0917,4.287985
+Washington Heights,"158,318",389.5,0,2,"Washington Heights, Hamilton Heights",1.4,2.05,2.2526,4.61783
+Hamilton Heights,"48,520",389.5,0,2,"Hamilton Heights, Harlem",1.2,,1.9308,3.95814
+Harlem,"335,109",2745,1,9,"Harlem, Morningside Heights",1.1,,1.7699,3.628295
+Morningside Heights,"55,929",389.5,1,3,"Harlem, East Harlem",1.7,,2.7353,5.607365
+East Harlem,"95,589",1034,1,3,"Harlem, Central Park",1.1,,1.7699,3.628295
+Upper West Side,"209,084",1017,1,3,"Morningside Heights, Upper West Side",2.2,,3.5398,7.25659
+Lincoln Square,"61,489",900,0,4,"East Harlem, Central Park",0.8,,1.2872,2.63876
+Central Park,2200,69,0,7,"East Harlem, Upper East Side",2.2,,3.5398,7.25659
+Upper East Side,"229,688",757.66,0,5,"Upper West Side, Central Park",0.6,,0.9654,1.97907
+Lenox Hill,"88,306",757.66,1,6,"Upper West Side, Lincoln Square",1.4,,2.2526,4.61783
+Roosevelt Island,"11,661",1698,0,4,"Lincoln Square, Central Park",0.6,,0.9654,1.97907
+Clinton,"25,416",1211.5,1,3,"Lincoln Square, Clinton",1.4,,2.2526,4.61783
+Theater District,"6,170",1276,0,3,"Lincoln Square, Midtown",1.8,,2.8962,5.93721
+Midtown,"391,371",2487.5,1,6,"Central Park, Midtown",0.6,,0.9654,1.97907
+Turtle Bay,"14,827",223.2,0,5,"Central Park, Lenox Hill",1.1,,1.7699,3.628295
+Sutton,"8,963",223.2,0,3,"Central Park, Upper East Side",1.1,,1.7699,3.628295
+Beekman,"14,432",223.2,0,5,"Upper East Side, Yorkville",0.8,,1.2872,2.63876
+Tudor,"15,846",223.2,0,3,"Upper East Side, Lenox Hill",0.6,,0.9654,1.97907
+Medical City,7504,402.8,0,3,"Upper East Side, Roosevelt Island",4.4,,7.0796,14.51318
+Stuyvesant,"21,049",402.8,0,4,"Lenox Hill, Midtown",2,,3.218,6.5969
+Gramercy Park,27988,402.8,0,4,"Lenox Hill, Roosevelt Island",4.2,,6.7578,13.85349
+Kips Bay,"5,330",402.8,0,4,"Lenox Hill, Turtle Bay",0.9,,1.4481,2.968605
+Murray Hill,"25,990",223.2,0,3,"Lenox Hill, Sutton",1.2,,1.9308,3.95814
+Midtown South,"28,630",402.8,1,4,"Roosevelt Island, Beekman",3.5,,5.6315,11.544575
+Garment District,"19,453",384.33,0,2,"Clinton, Midtown",1.8,,2.8962,5.93721
+Chelsea,"38,242",384.33,0,7,"Clinton, Hell's Kitchen",2.2,,3.5398,7.25659
+Hell's Kitchen,"45,884",384.33,0,3,"Theater District, Midtown",0.9,,1.4481,2.968605
+Meat Packing Dist.,"1,428",306.8,1,4,"Theater District, Hell's Kitchen",1,,1.609,3.29845
+West Village,"30,344",306.8,0,4,"Theater District, Garment District",1.2,,1.9308,3.95814
+Greenwich Village,"22,785",306.8,0,5,"Midtown, Garment District",1.5,,2.4135,4.947675
+NoHo,"24,846",306.8,0,4,"Midtown, Turtle Bay",1.9,,3.0571,6.267055
+East Village,"62,832",617,0,7,"Midtown, Murray Hill",2.2,,3.5398,7.25659
+ABC City,"63,347",617,1,3,"Midtown, Midtown South",1.6,,2.5744,5.27752
+SoHo,"19,573",306.8,0,6,"Turtle Bay, Murray Hill",1.8,,2.8962,5.93721
+Little Italy,"1,211",195.2,0,5,"Turtle Bay, Sutton",0.9,,1.4481,2.968605
+Bowery,10058,195.2,0,4,"Turtle Bay, Beekman",2,,3.218,6.5969
+Lower East Side,"72,957",962,1,4,"Sutton, Beekman",0.8,,1.2872,2.63876
+Chinatown,"100,000",195.2,0,6,"Beekman, Murray Hill",0.85,,1.36765,2.8036825
+Civic Center,"5,974",195.2,0,5,"Beekman, Tudor",1.25,,2.01125,4.1230625
+Two Bridges,"28,915",195.2,1,5,"Tudor, Murray Hill",0.5,,0.8045,1.649225
+Wall Street,"25,547",346.5,0,5,"Tudor, Medical City",0.6,,0.9654,1.97907
+Southern Tip,1680,346.5,0,2,"Medical City, Kips Bay",2.1,,3.3789,6.926745
+White Hall,5078,346.5,0,4,"Medical City, Stuyvesant",2.2,,3.5398,7.25659
+Tribeca,"17,362",346.5,1,4,"Stuyvesant, Gramercy Park",1.6,,2.5744,5.27752
+,,,,,"Stuyvesant, East Village",3.2,,5.1488,10.55504
+,,,,,"Stuyvesant, ABC City",2.5,,4.0225,8.246125
+,,,,,"Gramercy Park, Kips Bay",2,,3.218,6.5969
+,,,,,"Gramercy Park, Midtown South",1.8,,2.8962,5.93721
+,,,,,"Gramercy Park, East Village",1.5,,2.4135,4.947675
+,,,,,"Kips Bay, Murray Hill",1.1,,1.7699,3.628295
+,,,,,"Kips Bay, Midtown South",1.3,,2.0917,4.287985
+,,,,,"Midtown South, Garment District",1.5,,2.4135,4.947675
+,,,,,"Midtown South, Chelsea",1.6,,2.5744,5.27752
+,,,,,"Midtown South, Greenwich Village",1.2,,1.9308,3.95814
+,,,,,"Garment District, Hell's Kitchen",1.1,,1.7699,3.628295
+,,,,,"Garment District, Chelsea",1.4,,2.2526,4.61783
+,,,,,"Chelsea, Hell's Kitchen",1.9,,3.0571,6.267055
+,,,,,"Chelsea, Meat Packing Dist.",2,,3.218,6.5969
+,,,,,"Chelsea, West Village",2.03,,3.26627,6.6958535
+,,,,,"Chelsea, Greenwich Village",2.1,,3.3789,6.926745
+,,,,,"Meat Packing Dist., West Village",0.5,,0.8045,1.649225
+,,,,,"West Village, Greenwich Village",1.2,,1.9308,3.95814
+,,,,,"West Village, SoHo",0.9,,1.4481,2.968605
+,,,,,"Greenwich Village, NoHo",1.5,,2.4135,4.947675
+,,,,,"Greenwich Village, SoHo",1.1,,1.7699,3.628295
+,,,,,"NoHo, SoHo",1.3,,2.0917,4.287985
+,,,,,"NoHo, East Village",1.5,,2.4135,4.947675
+,,,,,"NoHo, Little Italy",1.6,,2.5744,5.27752
+,,,,,"East Village, Little Italy",1.2,,1.9308,3.95814
+,,,,,"East Village, ABC City",1.1,,1.7699,3.628295
+,,,,,"East Village, Bowery",1.4,,2.2526,4.61783
+,,,,,"East Village, Lower East Side",1.9,,3.0571,6.267055
+,,,,,"ABC City, Lower East Side",2,,3.218,6.5969
+,,,,,"SoHo, Little Italy",1,,1.609,3.29845
+,,,,,"SoHo, Tribeca",1.2,,1.9308,3.95814
+,,,,,"SoHo, Chinatown",1.5,,2.4135,4.947675
+,,,,,"Little Italy, Chinatown",1.9,,3.0571,6.267055
+,,,,,"Little Italy, Bowery",2.15,,3.45935,7.0916675
+,,,,,"Bowery, Lower East Side",1.4,,2.2526,4.61783
+,,,,,"Bowery, Two Bridges",1.25,,2.01125,4.1230625
+,,,,,"Lower East Side, Two Bridges",1.2,,1.9308,3.95814
+,,,,,"Chinatown, Civic Center",0.9,,1.4481,2.968605
+,,,,,"Chinatown, Two Bridges",0.35,,0.56315,1.1544575
+,,,,,"Chinatown, Tribeca",0.82,,1.31938,2.704729
+,,,,,"Civic Center, Tribeca",0.48,,0.77232,1.583256
+,,,,,"Civic Center, White Hall",0.55,,0.88495,1.8141475
+,,,,,"Civic Center, Wall Street",0.7,,1.1263,2.308915
+,,,,,"Civic Center, Two Bridges",0.8,,1.2872,2.63876
+,,,,,"Two Bridges, Wall Street",1.2,,1.9308,3.95814
+,,,,,"Wall Street, Southern Tip",1,,1.609,3.29845
+,,,,,"Wall Street, White Hall",1.3,,2.0917,4.287985
+,,,,,"Southern Tip, White Hall",0.9,,1.4481,2.968605
+,,,,,"White Hall, Tribeca",0.8,,1.2872,2.63876
+,,,,,"Roosevelt Island, Yorkville",2.5,,4.0225,8.246125
+,,,,,"Morningside Heights, Harlem",0.9,,1.4481,2.968605
