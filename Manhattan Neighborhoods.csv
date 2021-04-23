@@ -1,4 +1,5 @@
 Neighborhood,Population,Crime Rate,Ambulance Stations,Adjacent neighborhoods
+Lenox Hill,"88,306",757.66,1,"Upper West Side, Lincoln Square"
 Fort George,"74,003",639,0,"Fort George, Washington Heights"
 Washington Heights,"158,318",389.5,1,"Washington Heights, Hamilton Heights"
 Hamilton Heights,"48,520",389.5,0,"Hamilton Heights, Harlem"
@@ -9,7 +10,6 @@ Upper West Side,"209,084",1017,1,"Morningside Heights, Upper West Side"
 Lincoln Square,"61,489",900,0,"East Harlem, Central Park"
 Central Park,2200,69,0,"East Harlem, Upper East Side"
 Upper East Side,"229,688",757.66,1,"Upper West Side, Central Park"
-Lenox Hill,"88,306",757.66,1,"Upper West Side, Lincoln Square"
 Roosevelt Island,"11,661",1698,0,"Lincoln Square, Central Park"
 Clinton,"25,416",1211.5,1,"Lincoln Square, Clinton"
 Theater District,"6,170",1276,0,"Lincoln Square, Midtown"
